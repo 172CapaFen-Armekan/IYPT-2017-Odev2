@@ -23,7 +23,8 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
 # Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+Takım olarak seçtiğimiz proje, 1997 yılında çıkmış ikinci soru olan "Coin" sorusudur. 1997 yılında sorulmuş olan bu soruda, cevabını bulmamız istenen problem; hangi yükseklikten atılan hilesiz madeni paranın, yazı ya da tura gelme olasılıklarının yüzde 50’ye eşit olduğudur. Bu soruyu çözerken yeni basım ve 1 TL değerinde olan hilesiz bir madeni para ve bir adet 1 metrelik T cetvelinden yararlanacağız. İlk olarak T cetveli ile düz ve dik bir zeminden yukarıya doğru, her seferinde 10 cm yükseltmek üzere uzunlukları belirleyeceğiz. Ardından bu dik zeminden sırası ile 10 cm yükseklikten başlayarak her adımda 10 cm artacak şekilde bu madeni parayı birçok kez atacağız ve her atışta bunların düzenli bir şema olarak kaydını tutacağız. Daha sonra ise bu atış kayıtlarını değerlendirerek bir grafik hazırlayacağız. Bu grafik ile de paranın düşme olasılıklarını hesaplayacağız. Yaptığımız bu grafik ile sorunun cevabını bulmayı umuyoruz. Problemin çözümünü bulduktan sonra da sonucu, grubumuzun GitHub hesabının YoungPhysicist-Project bölümünde paylaşmayı planlıyoruz.
+
 # Giriş (Introduction)
 Bu bölüm; 
 literatür

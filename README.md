@@ -27,6 +27,14 @@ Takım olarak seçtiğimiz proje, 1997 yılında çıkmış ikinci soru olan "Co
 # Giriş (Introduction)
 Projemiz, hilesiz madeni bir paranın yazı ve tura gelme olasılıklarının eşit olması için yerden ne kadar mesafeden yere atılması gerektiği ile alakalı, tamamen bir deney ve gözlem projesi. İlk başta, Armekan takımı olarak bir deney ve gözlem projesi istediğimizde karar kıldık. Eski IYPT sorularına bakarken de bu projeyi görür görmez "İşte Bizim Projemiz" dedik. Özellikle de projemiz Yazı-Tura oranları ile alakalı olunca, daha bir ilgimizi çekti. İlk başta deneyin sonucu hakkında tahminimiz Yazı-Tura oranının yüksekliğe bağlı olarak değişmeyeceği idi. Ayrıca şehir efsanelerinden olan "Tura her zaman daha çok gelir" sözünü de deneme fırsatı bulduk. Projeyi yapmak istediğimizde bazı sorunlarla karşılaştık. Özellikle de bu projenin daha önce oldukça az sayıda yapılmış olması sebebiyle kaynak bulmak biraz zor oldu. Ancak bu bizi yıldırmadı. Ayrıca deneyin yapılması gereken ortamdaki etmenler de oldukça deneyin sonucunu değiştirebileceği için, yer konusunda da sıkıntı çektik. Ancak çabalarımız sonucunda deneyi gerçekleştirdik. Oldukça zevkli bir deneyim oldu bizler için. Deneyin yspılışını ve malzemelerini aşağıdaki "Materyal ve Yöntem" kısmında bulabilirsiniz.
  
+# Kaynakça
+ 
+IYPT 'Coin' probleminin çözüm pdf'si: http://ilyam.org/tvurci_naboj_2005/23_1997_02_Kluiber_TNU_TMF_MAFY_HK_2005_94-101.pdf
+
+https://tr.khanacademy.org/math/probability/probability-geometry/probability-basics/a/theoretical-and-experimental-probability-coin-flips-and-die-rolls
+
+Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine. http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p
+
 # Materyal ve Yöntem (Experimental Setup)
 
 Bu bölümde aşağıdaki kısımla

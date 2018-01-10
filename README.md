@@ -13,41 +13,29 @@ https://tr.khanacademy.org/math/probability/probability-geometry/probability-bas
 Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine. http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p
 
 # Materyal ve Yöntem (Experimental Setup)
+Projemizin bu aşaması Deney ve Gözlem aşamasıdır. Bu aşamada sizlere deneyimizi nasıl gerçekleştirdiğimizi anlatacağız.
 
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
+# 1. Deney Öncesi Veri Toplama
+Deneyimizden önce, deneyimizi nasıl yapacağımız hakkında veri toplamamız gerekti. Deneyimiz ile alakalı birçok araştırma yaptık ancak gördük ki deneyimiz, oldukça az sefer yapıldığı için kaynak sayısı oldukça az. İşte bu yüzden deneye biraz "kör" başlamak zorunda kaldık. Başarısızlığa uğrayabileceğimizi bilsek bile, bu bizi deneyi yapmaktan alıkoymadı.
 
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
+# 2. Çalışma Ortamı
+Deneyimiz için, deneyimizde gereken koşulları göz önünde bulundurarak, bir mekan araştırması yaptık. Araştırmamız sonucu, okulumuzdaki bir sınıfın bu iş için en ideal yer olacağını gördük ve deney ortamı olarak bir sınıfı kullandık.
 
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
+# 3. Deney Malzemeleri
+Deneyimizde kullandığımız malzemeler:
+-Bir adet hilesiz, 1 TL değerinde madeni para.
+-Gerekli uzunlukları ölçmek için bir adet cetvel.
+-Deney sonuçlarını not alabilmek için bir defter.
+-Ölçtüğümüz uzunlukları işaretlemek ve not almak için bir kalem.
 
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
+# 4. Deneyin Yapılışı
+Deneyi takımımızın üyeleri; Mert, Arif, Furkan beraber gerçekleştirdik. Yaklaşık olarak 1.5 saat sonucunda deneyi neticelendirmiştik olduk.
 
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
+# Yöntem
+İlk olarak düz bir duvara 10'ar cm aralıklar ile işaretler koyduk. Ve ardından her bir işaretten elimizdeki madeni parayı 50'şer kez dik bir şekilde attık. Çıkan her Yazı ya da Tura sonucunu, mesafe değerleri ile beraber not aldık. Ve en sonunda bu değerlerin oranlarını hesapladık ve deneyimizi sonuçlandırdık. Ancak ne yazık ki çıkan oranlarda çok aşırı bir düzensizlik oldu.
 
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
-
-# Bulgular (Results)
-Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
-
-Örnek olarak, bir su birikintisi içinde yanan bir mum bir bardak ile kapatıldığında su seviyesi yükselmektedir. Bu deneyle ilgili bazı resimleri [burdan](https://www.stevespanglerscience.com/lab/experiments/why-does-the-water-rise/) bulabilirsiniz. Sizin de benzer resimler çekmeniz beklenmektedir. Her grup kendi deneyine ait resimleri çekecektir. Başka bir grubun resimleri kullanıldığı takdirde bu bir kopya girişimi olarak kabul edilecektir. 
-
+# Bulgular 
+Deneyimiz maalesef başarısızlıkla sonuçlandı. Ancak bunun sebebini tespit ettik ve dersimizi aldık. Aslında bu bir hata değil, deneyi başarılı bir şekilde sonuçlandırmak için geren bir aşamaydı. Yaptığımız hata, madeni parayı attığımız zemin ile alakalı hiçbir araştırma yapmamamızdı. Daha sonradan fark ettik ki zemin tam olarak düz değil ve eğimli imiş. Birdahaki sefere buna dikkat edip, deneyimizi neticelendirmeyi umuyoruz. 
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
 Burasını doldurmaya görek yoktur. Daha sonraki ödevin konusun olacaktır. 
